@@ -1,0 +1,116 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab:100,400italic|Raleway:400,100|Flamenco:300,400|Gilda+Display|Arvo|IM+Fell+French+Canon:400italic|Life+Savers|Berkshire+Swash|Bubbler+One|Asul:400,700);
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  background-image: url(neighborhood-lrg.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding: 0;
+  padding-bottom: 75%;
+  margin-top: -25px;
+}
+
+.bar-slide{
+  background-color: #dd9;
+  margin: 5px;
+  font-size: 25px;
+  color: #007;
+  padding: 10px;
+}
+
+.top h2 {
+  font-family: "Gilda Display";
+  font-size: 42px;
+  border-bottom: 2px solid #FFD373;
+}
+
+table {
+  text-align: center;
+  color: #000000;
+  padding: 35px;
+  line-height: 2;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
+
+.left table {
+
+}
+
+.right table {
+
+}
+
+.top, #header {
+/*  border: 1px solid #000000;
+*/  overflow: auto;
+  width: 100%;
+}
+
+.left {
+  max-width: 45%;
+  float: left;
+}
+
+.right {
+  max-width: 45%;
+  float: right;
+}
+
+.bottom {
+  position: relative;
+  background-color: #C6E2FF;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.border-left {
+  position: absolute;
+  background-color: white;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+}
+
+.border-right {
+  position: absolute;
+  background-color: white;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 60px;
+}
+
+.border-top {
+  position: absolute;
+  background-color: white;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+}
+
+.border-bottom {
+  position: absolute;
+  background: white;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  padding: 10px;
+}
+
+.border-bottom span {
+  background-color: #FFD373;
+  margin: 9px;
+  padding: 2.5px;
+  border: 3px solid #FFAE00;
+  cursor: pointer;
+  letter-spacing: 0.2em;
+}

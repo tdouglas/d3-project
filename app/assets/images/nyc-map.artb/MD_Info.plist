@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kDKDrawingInfoTitle</key>
+	<string>nyc-map.artb</string>
+	<key>kdkdrawinginfocreationdate</key>
+	<date>2013-09-05T04:29:18Z</date>
+	<key>kdkdrawinginfodimensionsshortunits</key>
+	<string>in.</string>
+	<key>kdkdrawinginfodimensionsunits</key>
+	<string>in.</string>
+	<key>kdkdrawinginfodraughter</key>
+	<string>Tricia Douglas</string>
+	<key>kdkdrawinginfodrawingdimensions.size_height</key>
+	<string>9.500000</string>
+	<key>kdkdrawinginfodrawingdimensions.size_width</key>
+	<string>10.000000</string>
+	<key>kdkdrawinginfodrawingnumber</key>
+	<string>A2-000052-0001</string>
+	<key>kdkdrawinginfodrawingnumberunformatted</key>
+	<integer>52</integer>
+	<key>kdkdrawinginfodrawingprefix</key>
+	<string>A2</string>
+	<key>kdkdrawinginfodrawingrevision</key>
+	<integer>1</integer>
+	<key>kdkdrawinginfolastmodificationdate</key>
+	<date>2013-09-05T04:29:18Z</date>
+</dict>
+</plist>
